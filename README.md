@@ -1,6 +1,4 @@
-# 👋 Hola, Bienvenido a mi perfil
-
-![header sebas](https://via.placeholder.com/900x300/2F81F7/FFFFFF?text=SEBASTIAN+JURADO%0AESTUDIANTE+DE+INGENIERIA+DE+SISTEMAS+Y+TELECOMUNICACIONES)
+ Hola, Bienvenido a mi perfil
 
 Soy un **ESTUDIANTE** de Ingeniería de Sistemas y Telecomunicaciones en la **Universidad de Manizales**, además de **DESARROLLADOR WEB** apasionado que ha trabajado en varios proyectos de desarrollo **WEB**, me considero un estudiante **PUNTUAL, RESPONSABLE y COMPROMETIDO** con los objetivos académicos, además de un **VISIONARIO** que le gusta **COMPARTIR** sus **CONOCIMIENTOS** e ideas con su **EQUIPO** de estudio.
 
