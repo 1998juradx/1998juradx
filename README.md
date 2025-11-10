@@ -1,65 +1,68 @@
- Hola, Bienvenido a mi perfil
-
-Soy un **ESTUDIANTE** de Ingeniería de Sistemas y Telecomunicaciones en la **Universidad de Manizales**, además de **DESARROLLADOR WEB** apasionado que ha trabajado en varios proyectos de desarrollo **WEB**, me considero un estudiante **PUNTUAL, RESPONSABLE y COMPROMETIDO** con los objetivos académicos, además de un **VISIONARIO** que le gusta **COMPARTIR** sus **CONOCIMIENTOS** e ideas con su **EQUIPO** de estudio.
-
-Mis principales cualidades son el **RESPETO** por las ideas de terceros, el ser **PROACTIVO** ante cualquier dificultad académica, la administración y gestión de proyectos mediante marcos de trabajo como **GIT**, el desarrollo de proyectos en diferentes campos de las tecnologías web, el **TRABAJO** en **EQUIPO**, el **LIDERAZGO** ante momentos adversos, y por último y no menos importante siempre **APASIONADO** por **APRENDER** nuevas tecnologías y nuevos **CONOCIMIENTOS**.
-
-## Frase que me inspira:
-
-> **La programación no es solo escribir código, es resolver problemas y crear soluciones que impacten positivamente en la vida de las personas - Sebastian Jurado.**
-
-💬 Pregúntame lo que quieras. Me interesa ayudar y compartir.
-
-## 🎯 Las tecnologías que más uso: 🔝
-
-![GIT](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
-## 💻 Otras Tecnologías que conozco:
-
-![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white) ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white) ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white) ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-
-## ✏ Donde he estudiado: 🔝
-
-**Universidad de Manizales** - Ingeniería de Sistemas y Telecomunicaciones
-
-![Universidad](https://img.shields.io/badge/Universidad_de_Manizales-2E8B57?style=for-the-badge&logo=graduation-cap&logoColor=white)
-
-## ⚒️ Trabajo Actualmente:
-
-Desarrollando proyectos web académicos y perfeccionando mis habilidades en programación
-
-## 🌎 Encuéntrame en las siguientes redes sociales:
-
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/1998juradx)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:s.jurado@equipo-ia.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://programaci-n-universidad.vercel.app)
-
-## 📈 Algunas de mis estadísticas:
-
+<!-- Profile README -->
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=1998juradx&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
+  <h1>Sebastián Jurado García</h1>
+  <p>AI Product Engineer · Ruby on Rails · Python · JavaScript</p>
+  <a href="mailto:sjuradox.dev@gmail.com">Correo</a> ·
+  <a href="https://www.linkedin.com/in/sebastian-jurado-garc%C3%ADa-5568b0285/">LinkedIn</a> ·
+  <a href="https://github.com/1998juradx">GitHub</a>
 </div>
 
+---
+
+### Por qué estoy aquí
+
+- Construyo productos que unen negocio y código, con énfasis en agentes de IA que integran APIs y sistemas internos.  
+- Lidero equipos pequeños (3 devs senior) para llevar ideas a producción con mediciones claras y sin drama operativo.  
+- Actualmente: sistema de logística asistido por IA que sugiere ruteo, prioriza clientes y automatiza alertas a comerciales.
+
+---
+
+### Capacidades Clave
+
+| Enfoque | Qué aporto |
+| --- | --- |
+| Agentes de IA | Orquestación event-driven, idempotencia, métricas por interacción. |
+| Integraciones | WhatsApp Cloud API, webhooks, CRM, hojas de cálculo. |
+| Delivery | Ruby on Rails, Python, JavaScript; SQL; pipelines CI/CD básicos. |
+| Liderazgo | Comunicación con stakeholders, definición de norte, iteraciones medibles. |
+
+---
+
+### Lo más reciente
+
+- **AI Logistics Assistant** · Ruby on Rails · Python · JS  
+  Asistente que prioriza visitas y pedidos, propone rutas diarias y registra cada interacción para auditar. Integrado con WhatsApp/CRM; reduce tareas manuales y acelera la visibilidad del ciclo comercial.
+
+- **Agentes Conversacionales con Trazabilidad**  
+  Diseño de agentes que combinan LLMs, reglas y colas de eventos para gestionar tareas internas, con `message_id`, retries y dashboards ligeros.
+
+> Busco seguir creando productos de IA con impacto real, colaborando con equipos que valoran métricas, observabilidad y foco en el usuario final.
+
+---
+
+### Stack en Producción
+
+![Rails](https://img.shields.io/badge/-Ruby%20on%20Rails-CC0000?logo=rubyonrails&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/-Redis-DC382D?logo=redis&logoColor=white)
+![WhatsApp Cloud API](https://img.shields.io/badge/-WhatsApp%20Cloud%20API-1BD741?logo=whatsapp&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-2088FF?logo=githubactions&logoColor=white)
+
+---
+
+### Métricas
+
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=1998juradx&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=1998juradx&show_icons=true&theme=transparent&hide_title=true" alt="GitHub stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=1998juradx&theme=transparent" alt="GitHub streak" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=1998juradx&theme=github-compact" alt="Activity graph" />
 </div>
 
-## 🚀 Proyectos Destacados:
+---
 
-### 🏍️ Proyecto Moto GP
-**Sitio web completo sobre MotoGP** - [Ver Proyecto](https://programaci-n-universidad.vercel.app)
-- Diseño responsive con HTML5, CSS3 y JavaScript
-- Galería de imágenes y contenido multimedia
-- Formularios interactivos
+### Diario de construcción
 
-### 📚 Tutoriales de Git
-**Guías completas de Git para estudiantes**
-- Documentación paso a paso
-- Ejemplos prácticos de trabajo en equipo
-- Mejores prácticas de versionado
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=1998juradx&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
-  
-  **¡Gracias por visitar mi perfil!** 🚀
-</div>
+- Mantengo notas semanales con decisiones técnicas, aprendizajes y siguientes pasos.  
+- Si quieres conversar sobre agentes, IA aplicada o integrar canales conversacionales con sistemas de negocio, escríbeme.
